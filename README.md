@@ -60,7 +60,8 @@ A custom fantasy city landscape is used as a background, adding an artistic and 
 
 ## 📸 Live Preview 
 
-![image](https://github.com/user-attachments/assets/172cb7ef-e3ce-4325-86c8-81895507cd23)
+![Uploading image.png…]()
+
 
 
 ---
