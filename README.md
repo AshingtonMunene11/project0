@@ -80,5 +80,5 @@ project-zero/
 
 ## 📜 License
 
-&copy; 2025 Ashington Munene — Moringa School.
+&copy; 2025 Ashington Munene — Harvard CS50.
 
